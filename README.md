@@ -3,4 +3,4 @@
 
 My public self.
 
-Credits to busterbenson for the idea!
+Credits to [busterbenson](https://github.com/busterbenson/public) for the idea!
